@@ -2,7 +2,7 @@
 This is a demo for git and github class.
 
 # Teacher
-Shradha Khapra
+Shradha Khapra (Apna College)
 
 # Student
 Suhaas Bandari
